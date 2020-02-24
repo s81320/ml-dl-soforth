@@ -18,3 +18,17 @@ http://neuralnetworksanddeeplearning.com/chap4.html
 ## an example with python code
 
 https://maviccprp.github.io/a-neural-network-from-scratch-in-just-a-few-lines-of-python-code/
+
+## at coursera
+
+https://www.coursera.org/learn/neural-networks-deep-learning#syllabus
+
+## at stanford (on youtube)
+
+https://www.youtube.com/watch?v=OQQ-W_63UgQ&t=644s
+
+## word 2 vec tutorial
+
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+
+and the original from google: https://code.google.com/archive/p/word2vec/
