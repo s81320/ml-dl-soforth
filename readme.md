@@ -20,6 +20,8 @@ http://neuralnetworksanddeeplearning.com/chap4.html
 
 http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 
+and the original from google: https://code.google.com/archive/p/word2vec/
+
 ## stack exchanged: explained like you're 5
 
 https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute
@@ -31,6 +33,3 @@ https://maviccprp.github.io/a-neural-network-from-scratch-in-just-a-few-lines-of
 ## at coursera
 
 https://www.coursera.org/learn/neural-networks-deep-learning#syllabus
-
-
-and the original from google: https://code.google.com/archive/p/word2vec/
