@@ -6,6 +6,7 @@ Jürgen Schmidhuber, deep learning in neural networks (an overview), 2014: https
 ## at stanford
 
 https://www.youtube.com/watch?v=OQQ-W_63UgQ&t=644s
+
 https://web.stanford.edu/class/cs124/lec/languagemodeling.pdf
 
 ### free online book by Michael Nielsen
