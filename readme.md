@@ -1,13 +1,16 @@
 Collecting resources on machine learning, deep learning, and so forth
 ## papers
 journal of ML research, 2001: NLP (almost) from scratch http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf
+
 Jürgen Schmidhuber, deep learning in neural networks (an overview), 2014: https://arxiv.org/pdf/1404.7828.pdf
 
 ## at stanford
 
-https://www.youtube.com/watch?v=OQQ-W_63UgQ&t=644s
+Lecture Christopher Manning, Richard Socher, 2017: https://www.youtube.com/watch?v=OQQ-W_63UgQ&t=644s
 
-https://web.stanford.edu/class/cs124/lec/languagemodeling.pdf
+Lecture Dan Jurafsky, 2020: https://web.stanford.edu/class/cs124/
+
+for example: https://web.stanford.edu/class/cs124/lec/languagemodeling.pdf
 
 ### free online book by Michael Nielsen
 
