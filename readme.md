@@ -1,4 +1,11 @@
 Collecting resources on machine learning, deep learning, and so forth
+## RNN
+learn addition: https://github.com/keras-team/keras/blob/master/examples/addition_rnn.py
+
+sequence to sequence learning https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+
+Felix Gers: RNN that count ftp://ftp.idsia.ch/pub/juergen/TimeCount-IJCNN2000.pdf
+
 ## papers
 journal of ML research, 2001: NLP (almost) from scratch http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf
 
